@@ -1,0 +1,6 @@
+@Oficina.Relatorios_HostAddress = http://localhost:5277
+
+GET {{Oficina.Relatorios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
