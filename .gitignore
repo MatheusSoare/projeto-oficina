@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Oficina.Relatorios/.vs/Oficina.Relatorios
+/Oficina.Relatorios/Oficina.Relatorios/bin/Debug/net8.0
+/Oficina.Relatorios/Oficina.Relatorios/obj
